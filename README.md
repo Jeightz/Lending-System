@@ -1,5 +1,5 @@
-# Leanding-System
-A Simple Leading Web System that allow the user To see how much interest they gonna pay base on the
+# Lending-System
+A Simple Lending Web System that allow the user To see how much interest they gonna pay base on the
 - amount they borrow
 - monthly interest
 - Total Payment
@@ -17,4 +17,4 @@ Creted in HTML,CSS and PHP this project is only meant for learning web developme
 -  Enchance Basic PHP
 
 ## 👁️Preview 
-![Leanding-System](https://i.imgur.com/MfxADUf.png)
+![Lending-System](https://i.imgur.com/mZz2eKz.png)
